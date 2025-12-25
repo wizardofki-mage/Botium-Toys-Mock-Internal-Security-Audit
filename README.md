@@ -2,9 +2,15 @@
 
 ## Table of Contents
 * [General Info](#General-info)
+* [Author](#Author)
 * [Techologies](#Technologies)
 * [Explaination](#Explaination)
 * [Screenshots](#Screenshots)
+* [Room for improvement](#Room-for-improvement)
+* [Release date](#Release-date)
+* [Acknowledgements](#Acknowledgements)
+* [Sources](#Sources)
+* [Contact](#Contact)
 
 ## General Info
 This is a pretend internal security audit for a fictional company called Botium Toys, created as part of my Coursera/Google Cybersecurity Certification.
@@ -29,3 +35,17 @@ I'm currently pursuing an online Cybersecurity Certification through Coursera/Go
 ![A screenshot of part of the controls assessment checklist]
 (PartOfControlsAssessmentChecklist.png)
 
+## Room for improvement
+Since I made the assignment into a report and added a little of my own style, it's a little disjointed in its goals and scope, but not terribly so or so much that it interferes with the nature or goals of the assignment.
+
+## Release date
+24 December, 2025
+
+## Acknowledgements
+- As mentioned above, this pretend internal security audit was created as part of the Coursera/Google Cybersecurity Certification that I am pursuing. Most of the info is from the assignment prompt and description because the minimum requirement of the assignment was just to check 'yes' or 'no' based on the information they furnished you about the current situation at the fictional company Botium Toys. However, I edited some parts as explained above and made it into a more professionally presentable report.
+
+## Sources
+- The toy clip art on the coverpage is a public domain image from https://freesvg.org/colorful-toys
+
+## Contact
+Jason Ash - wizardofki@gmail.com
