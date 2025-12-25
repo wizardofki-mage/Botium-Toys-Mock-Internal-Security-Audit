@@ -35,6 +35,7 @@ I'm currently pursuing an online Cybersecurity Certification through Coursera/Go
 ![A screenshot of part of the controls assessment checklist.]
 (PartOfControlsAssessmentChecklist.png)
 
+
 ## Room for improvement
 Since I made the assignment into a report and added a little of my own style, it's a little disjointed in its goals and scope, but not terribly so or so much that it interferes with the nature or goals of the assignment.
 
