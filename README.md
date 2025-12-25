@@ -32,8 +32,7 @@ I'm currently pursuing an online Cybersecurity Certification through Coursera/Go
 - The scope, goals, risk descriptions, control best practices, and risk score were taken from the assignment instructions largely unchanged.
 
 ## Screenshots
-![A screenshot of part of the controls assessment checklist.]
-(PartOfControlsAssessmentChecklist.png)
+![A screenshot of part of the controls assessment checklist.](PartOfControlsAssessmentChecklist.png)
 
 
 ## Room for improvement
